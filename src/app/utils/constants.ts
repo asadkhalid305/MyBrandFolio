@@ -168,7 +168,7 @@ export const testimonial: Testimonial = {
       author: {
         name: "[Name]",
         image: {
-          src: "/images/default.webp",
+          src: "/images/user-profile.svg",
           alt: "Lorem ipsum",
         },
         job: "[Position] at [Company]",
@@ -180,7 +180,7 @@ export const testimonial: Testimonial = {
       author: {
         name: "[Name]",
         image: {
-          src: "/images/default.webp",
+          src: "/images/user-profile.svg",
           alt: "Lorem ipsum",
         },
         job: "[Position] at [Company]",
@@ -192,7 +192,7 @@ export const testimonial: Testimonial = {
       author: {
         name: "[Name]",
         image: {
-          src: "/images/default.webp",
+          src: "/images/user-profile.svg",
           alt: "Lorem ipsum",
         },
         job: "[Position] at [Company]",
@@ -204,7 +204,7 @@ export const testimonial: Testimonial = {
       author: {
         name: "[Name]",
         image: {
-          src: "/images/default.webp",
+          src: "/images/user-profile.svg",
           alt: "Lorem ipsum",
         },
         job: "[Position] at [Company]",
@@ -216,7 +216,7 @@ export const testimonial: Testimonial = {
       author: {
         name: "[Name]",
         image: {
-          src: "/images/default.webp",
+          src: "/images/user-profile.svg",
           alt: "Lorem ipsum",
         },
         job: "[Position] at [Company]",
@@ -228,7 +228,7 @@ export const testimonial: Testimonial = {
       author: {
         name: "[Name]",
         image: {
-          src: "/images/default.webp",
+          src: "/images/user-profile.svg",
           alt: "Lorem ipsum",
         },
         job: "[Position] at [Company]",

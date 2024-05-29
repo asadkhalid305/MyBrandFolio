@@ -34,7 +34,7 @@ export default function ProfileCard({
               className="bg-blue-700 rounded-full pt-2"
               fill
               sizes="100px"
-              src="/images/user-profile.webp"
+              src="/images/user-profile.svg"
             />
           </div>
           <h5 className="text-lg font-medium">{name}</h5>

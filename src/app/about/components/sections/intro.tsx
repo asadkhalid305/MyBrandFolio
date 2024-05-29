@@ -21,7 +21,7 @@ export default function Intro() {
             fill
             priority
             sizes="100%"
-            src="/images/user-profile.webp"
+            src="/images/user-profile.svg"
           />
         </div>
       </div>

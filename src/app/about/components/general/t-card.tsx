@@ -20,7 +20,7 @@ export default function TCard({ text, author }: TCardProps) {
       <Link href={link} rel="noopener noreferrer" target="_blank">
         <figcaption className="flex items-center justify-center ">
           <Image
-            className="rounded-full w-9 h-9"
+            className="bg-c-dark rounded-full w-9 h-9"
             width={200}
             height={200}
             src={src}
