@@ -3,7 +3,7 @@ import { chatbot } from "@/app/utils/constants";
 
 // Initialize the OpenAI API with your API key
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: process.env.OPENAI_API_KEY || "My API Key",
 });
 
 const { config, dataset, prompt } = chatbot;
