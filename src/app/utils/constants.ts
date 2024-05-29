@@ -13,13 +13,11 @@ import {
 
 const year = new Date().getFullYear();
 
-//Metadata
 export const metadata: Metadata = {
   title: "[Name] - Portfolio",
   description: "This is [Name] portfolio website",
 };
 
-//Header
 export const header: Header = {
   links: [
     {
@@ -49,13 +47,11 @@ export const header: Header = {
   ],
 };
 
-// Intro
 export const intro: Intro = {
   heading: "Introduction",
   description: `Hey, I am <span class="font-bold">[Name]</span>, a [Position] at <a class="underline focus:decoration-none" href="https://example.com" rel="noopener noreferrer" target="_blank">[Company]</a> in [Location]. With [Number] years in the field, I have come a long way, learning, networking, and giving back to the community. As a <span class="font-bold">mentor and public speaker</span>, I have helped numerous students and professionals in their career journeys. <br /> <br />If you are seeking guidance or interested in collaborating, <span class="font-bold">reach out to me!</span>`,
 };
 
-// Journey
 export const journey: Journey = {
   heading: "Journey",
   description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lacinia eu nisl et tincidunt. Quisque accumsan sollicitudin velit, mattis consequat libero lacinia a. Donec euismod porta sagittis. Nullam luctus lacus turpis, a volutpat orci gravida eget. Aenean velit diam, pellentesque ac orci quis, efficitur tincidunt elit. Suspendisse ipsum est, tempor at vestibulum nec, consequat id lacus. Duis ullamcorper suscipit leo a dapibus. Phasellus molestie nisi nulla, eget tincidunt ante ullamcorper sed. Nam luctus, urna a rutrum elementum, est justo efficitur turpis, at consequat quam nunc eu felis. Nunc cursus eros sed dolor luctus varius. Duis aliquam malesuada tellus non pretium.
@@ -65,7 +61,6 @@ Aliquam hendrerit rhoncus maximus. Donec sit amet nisl quis nunc fermentum molli
 Phasellus tincidunt laoreet lacus in congue. Praesent vitae leo non ipsum bibendum euismod. Duis id convallis eros. Fusce ut nisl in sem porta ornare ut vitae ipsum. Aliquam congue tristique velit, eget mollis orci faucibus eget. In hac habitasse platea dictumst. Integer maximus vel felis vel tristique. Aenean facilisis lacus non bibendum ultricies.`,
 };
 
-// Experience
 export const experience: Experience = {
   heading: "Experience",
   description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse faucibus in massa ut tempus. Quisque bibendum eleifend faucibus. Maecenas ultricies turpis in tellus semper suscipit. Maecenas et tincidunt mauris. Suspendisse in tincidunt nulla. Morbi sit amet ex a lorem laoreet accumsan eget eu purus. Praesent libero ipsum, placerat ac mauris ut, ultricies porttitor tortor. Vivamus ut posuere nunc. Maecenas luctus.`,
@@ -92,7 +87,6 @@ export const experience: Experience = {
   linkedInLink: "https://www.linkedin.com/in/johndoe/details/experience/",
 };
 
-// Contribution
 export const contribution: Contribution = {
   heading: `Contribution`,
   description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed justo eget massa pretium ultricies non non turpis. Aliquam accumsan tortor orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc vitae scelerisque urna. Nulla fringilla neque felis, rhoncus vestibulum nisl commodo ac. Duis quis tellus a lacus elementum fringilla. Curabitur ac condimentum arcu, vitae tristique lacus. Praesent consectetur enim quis diam aliquam, consequat egestas tortor sollicitudin. Duis ornare egestas blandit. Integer sapien ex, ullamcorper non metus et, vehicula interdum diam. Morbi nec.`,
@@ -166,7 +160,6 @@ export const contribution: Contribution = {
   },
 };
 
-// Testimonial
 export const testimonial: Testimonial = {
   heading: `Testimonial`,
   items: [
@@ -244,7 +237,7 @@ export const testimonial: Testimonial = {
     },
   ],
 };
-// Contacts
+
 export const contact: Contact = {
   heading: `Let's Connect`,
   description:
