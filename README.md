@@ -25,7 +25,7 @@
 
 ## Demo
 
-To see the current app, [click here](https://portfolio-template-4zsb62qy9-asadullahkhalid-personal.vercel.app/)
+To see the current app, [click here](https://mybrandfolio-git-main-asadullahkhalid-personal.vercel.app/)
 
 To see an example, [click here](https://www.asadullahkhalid.com/).
 
