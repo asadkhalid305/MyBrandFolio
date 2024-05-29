@@ -6,11 +6,18 @@ import {
   Header,
   Intro,
   Journey,
+  Metadata,
   Socials,
   Testimonial,
 } from "./types";
 
 const year = new Date().getFullYear();
+
+//Metadata
+export const metadata: Metadata = {
+  title: "[Name] - Portfolio",
+  description: "This is [Name] portfolio website",
+};
 
 //Header
 export const header: Header = {
